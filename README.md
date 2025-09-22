@@ -116,7 +116,7 @@ int main() {
 ```
 
 ## OUTPUT
-<img width="377" height="180" alt="image" src="https://github.com/user-attachments/assets/b6530299-cab8-4bdc-9cc8-21e371bb7d18" />
+<img width="548" height="351" alt="image" src="https://github.com/user-attachments/assets/f27bb853-ee66-4fe2-8605-3cbbd3f56a4d" />
 
 ## RESULT
 Thus, the C program for the Hill Cipher was successfully executed.
